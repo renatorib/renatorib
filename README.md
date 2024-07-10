@@ -12,6 +12,6 @@ Senior Frontend Engineer
 [[English CV.pdf](https://raw.githubusercontent.com/renatorib/curriculum-vitae/master/build/EN-US.pdf)]  
 [[hi@rena.to](mailto:hi@rena.to)]
 
---
+---
 
 Visit my blog [rena.to](https://rena.to)
