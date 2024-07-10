@@ -3,8 +3,8 @@ npx renatorib
 ```
 
 **✨ Renato Ribeiro**  
-Senior Frontend Engineer.
-Fullstack Engineer.  
+_São Paulo, Brazil_  
+Senior Frontend Engineer
 
 **📝 Open to work**  
 [[Linkedin](http://linkedin.com/in/renatorib)]  
